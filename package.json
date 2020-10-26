@@ -1,0 +1,16 @@
+{
+  "name": "blog1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "css" : "npx tailwindcss build tailwind.css -o src/css/style.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^1.4.6"
+  }
+}
